@@ -54,7 +54,6 @@ for (let i = 0; i < 5; i++) {
 //         Separate each number with ", " (comma and space).
 //         Print: console.log("Numbers: " + yourString)
 //         Example: "Numbers: 10, 20, 30, 40, 50"
-//bro//
 //
 //         HINT: Start with an empty string. In the loop,
 //         add the number. If it's not the last number,
