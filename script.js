@@ -22,7 +22,7 @@ let colors = ["red", "green", "blue"];
 // STEP 2: Use a for loop to print each color.
 //         Each line should say exactly:
 //         "Color: red"
-//         "Color: green"
+//         "Color: greenn"
 //         "Color: blue"
 //         Use: console.log("Color: " + colors[i])
 for (let i = 0; i < colors.length; i++) {
